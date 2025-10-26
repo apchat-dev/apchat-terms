@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>APChat — 服务条款</title>
+  <meta name="description" content="APChat 服务条款" />
+  <style>
+    :root{
+      --bg:#fafafa;
+      --card:#ffffff;
+      --muted:#6b7280;
+      --accent:#0ea5a4;
+      --maxw:900px;
+      --radius:12px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Microsoft YaHei";
+    }
+    body{
+      background:var(--bg);
+      color:#0f172a;
+      margin:0;
+      padding:32px 16px;
+      display:flex;
+      justify-content:center;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+    .container{
+      max-width:var(--maxw);
+      width:100%;
+      background:var(--card);
+      border-radius:var(--radius);
+      box-shadow:0 6px 30px rgba(2,6,23,0.06);
+      padding:32px;
+    }
+    h1{ margin:0 0 8px 0; font-size:20px; letter-spacing:-0.2px; }
+    .meta{ color:var(--muted); font-size:13px; margin-bottom:20px; }
+    section{ margin:18px 0; line-height:1.55; font-size:15px; color:#0b1220; }
+    ul{ margin:8px 0 0 20px; }
+    a { color:var(--accent); text-decoration:underline; }
+    footer{ margin-top:22px; font-size:13px; color:var(--muted); text-align:center; }
+    @media (max-width:520px){ .container{ padding:20px; border-radius:10px; } }
+  </style>
+</head>
+<body>
+  <main class="container" role="main" aria-labelledby="terms-title">
+    <header>
+      <h1 id="terms-title">服务条款</h1>
+      <div class="meta">最后更新：2025年10月 — APChat</div>
+    </header>
+
+    <section>
+      <h2 style="font-size:16px;margin:0 0 8px 0">欢迎</h2>
+      <p>欢迎使用 <strong>APChat</strong>（“我们”）。本服务条款（“条款”）适用于您对 APChat 应用程序（“应用”）及相关服务的访问与使用。登录或使用 APChat 即表示您同意这些条款。</p>
+    </section>
+
+    <section>
+      <h3>1. 应用使用</h3>
+      <p>APChat 当前仅供内部使用。仅授权的用户凭管理员分配的账户才能访问。未来可能开放公众访问 — 届时本条款仍然适用。</p>
+      <p>您同意仅出于合法目的使用 APChat，并遵守管理员提供的任何指南或指示。</p>
+    </section>
+
+    <section>
+      <h3>2. 账户访问</h3>
+      <p>登录凭证（邮箱和密码）由管理员分配。用户应妥善保管账户信息，并对账户下的所有活动负责。如怀疑账户被盗，请立即联系 <a href="mailto:support@adminpchat.com">support@adminpchat.com</a>。</p>
+    </section>
+
+    <section>
+      <h3>3. 消息存储与隐私</h3>
+      <p>通过 APChat 发送的消息及相关数据会存储在我们的服务器上。我们会采取合理措施保护您的数据，但无法保证绝对安全。使用本应用即表示您同意按照我们的 <a href="https://privacy.domain.com">隐私政策</a> 存储和处理您的数据。</p>
+    </section>
+
+    <section>
+      <h3>4. 可接受的使用</h3>
+      <p>您同意不使用 APChat 来：</p>
+      <ul>
+        <li>发送垃圾信息或重复的不受欢迎消息；</li>
+        <li>传播非法、有害或滥用内容；</li>
+        <li>干扰或破坏应用的正常运行。</li>
+      </ul>
+      <p>我们有权暂停或终止违反条款的用户访问权限。</p>
+    </section>
+
+    <section>
+      <h3>5. 知识产权</h3>
+      <p>APChat 的所有内容、功能和特性（包括软件、设计及商标）均为 APChat 或其许可方所有，并受相关法律保护。</p>
+    </section>
+
+    <section>
+      <h3>6. 免责声明与责任限制</h3>
+      <p>APChat 按“现状”提供。我们不对应用的可靠性、可用性或适用性作任何明示或暗示的保证。在法律允许的最大范围内，我们不对使用本应用造成的任何损失、损害或数据问题承担责任。</p>
+    </section>
+
+    <section>
+      <h3>7. 条款变更</h3>
+      <p>我们可能会不时更新条款。最新版本始终在应用或官方网站可用。继续使用应用即表示您同意更新后的条款。</p>
+    </section>
+
+    <section>
+      <h3>8. 联系我们</h3>
+      <p>如对条款有任何疑问或关注，请联系：<a href="mailto:support@adminpchat.com">support@adminpchat.com</a>。</p>
+    </section>
+
+    <footer>
+      © 2025 APChat. 保留所有权利。
+    </footer>
+  </main>
+</body>
+</html>
