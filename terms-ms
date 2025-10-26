@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ms">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>APChat — Terma & Syarat</title>
+  <meta name="description" content="APChat Terma & Syarat" />
+  <style>
+    :root{
+      --bg:#fafafa;
+      --card:#ffffff;
+      --muted:#6b7280;
+      --accent:#0ea5a4;
+      --maxw:900px;
+      --radius:12px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    body{
+      background:var(--bg);
+      color:#0f172a;
+      margin:0;
+      padding:32px 16px;
+      display:flex;
+      justify-content:center;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+    .container{
+      max-width:var(--maxw);
+      width:100%;
+      background:var(--card);
+      border-radius:var(--radius);
+      box-shadow:0 6px 30px rgba(2,6,23,0.06);
+      padding:32px;
+    }
+    h1{ margin:0 0 8px 0; font-size:20px; letter-spacing:-0.2px; }
+    .meta{ color:var(--muted); font-size:13px; margin-bottom:20px; }
+    section{ margin:18px 0; line-height:1.55; font-size:15px; color:#0b1220; }
+    ul{ margin:8px 0 0 20px; }
+    a { color:var(--accent); text-decoration:underline; }
+    footer{ margin-top:22px; font-size:13px; color:var(--muted); text-align:center; }
+    @media (max-width:520px){ .container{ padding:20px; border-radius:10px; } }
+  </style>
+</head>
+<body>
+  <main class="container" role="main" aria-labelledby="terms-title">
+    <header>
+      <h1 id="terms-title">Terma & Syarat</h1>
+      <div class="meta">Dikemas kini: Oktober 2025 — APChat</div>
+    </header>
+
+    <section>
+      <h2 style="font-size:16px;margin:0 0 8px 0">Selamat Datang</h2>
+      <p>Selamat datang ke <strong>APChat</strong> (“kami”). Terma & Syarat ini (“Terma”) mengawal akses dan penggunaan anda terhadap aplikasi APChat (“App”) dan perkhidmatan berkaitan. Dengan log masuk atau menggunakan APChat, anda bersetuju dengan Terma ini.</p>
+    </section>
+
+    <section>
+      <h3>1. Penggunaan App</h3>
+      <p>APChat kini ditujukan untuk kegunaan dalaman sahaja. Akses hanya diberikan kepada pengguna yang diberi kelayakan oleh pentadbir app. Pada masa akan datang, akses awam mungkin dibuka — Terma ini akan terus terpakai jika dan bila itu berlaku.</p>
+      <p>Anda bersetuju menggunakan APChat untuk tujuan sah sahaja dan mengikut sebarang garis panduan atau arahan daripada pentadbir.</p>
+    </section>
+
+    <section>
+      <h3>2. Akses Akaun</h3>
+      <p>Kelayakan log masuk (email dan kata laluan) diberikan oleh pentadbir. Pengguna bertanggungjawab menjaga keselamatan akaun mereka dan semua aktiviti yang dilakukan melalui akaun mereka. Jika anda mengesyaki akaun anda telah digodam, sila hubungi <a href="mailto:support@adminpchat.com">support@adminpchat.com</a> dengan segera.</p>
+    </section>
+
+    <section>
+      <h3>3. Penyimpanan Mesej dan Privasi</h3>
+      <p>Mesej dan data berkaitan yang dihantar melalui APChat disimpan di pelayan kami. Kami mengambil langkah munasabah untuk melindungi data anda; walau bagaimanapun, tiada sistem yang sepenuhnya selamat. Dengan menggunakan App, anda bersetuju kepada penyimpanan dan pemprosesan data anda seperti yang diterangkan dalam <a href="https://privacy.domain.com">Dasar Privasi</a> kami.</p>
+    </section>
+
+    <section>
+      <h3>4. Penggunaan yang Diterima</h3>
+      <p>Anda bersetuju untuk tidak menggunakan APChat untuk:</p>
+      <ul>
+        <li>Menghantar spam atau mesej berulang yang tidak diingini;</li>
+        <li>Menyebarkan kandungan haram, berbahaya, atau menyalahgunakan;</li>
+        <li>Mengganggu atau menjejaskan operasi App.</li>
+      </ul>
+      <p>Kami berhak menggantung atau menamatkan akses bagi pengguna yang melanggar Terma ini.</p>
+    </section>
+
+    <section>
+      <h3>5. Harta Intelek</h3>
+      <p>Semua kandungan, ciri, dan fungsi APChat (termasuk perisian, reka bentuk, dan tanda dagangan) adalah milik APChat atau pemberi lesen dan dilindungi oleh undang-undang.</p>
+    </section>
+
+    <section>
+      <h3>6. Penafian dan Had Liabiliti</h3>
+      <p>APChat disediakan “sebagaimana adanya”. Kami tidak memberikan sebarang jaminan berkaitan kebolehpercayaan, ketersediaan, atau kesesuaian App. Sejauh yang dibenarkan oleh undang-undang, kami tidak bertanggungjawab terhadap sebarang kehilangan, kerosakan, atau isu data akibat penggunaan App.</p>
+    </section>
+
+    <section>
+      <h3>7. Perubahan Terma</h3>
+      <p>Kami boleh mengemas kini Terma dari semasa ke semasa. Versi terkini sentiasa tersedia dalam App atau di laman web rasmi. Penggunaan berterusan selepas kemas kini bermakna anda bersetuju dengan Terma yang dikemas kini.</p>
+    </section>
+
+    <section>
+      <h3>8. Hubungi Kami</h3>
+      <p>Sekiranya anda mempunyai sebarang soalan atau kebimbangan mengenai Terma ini, sila hubungi: <a href="mailto:support@adminpchat.com">support@adminpchat.com</a>.</p>
+    </section>
+
+    <footer>
+      © 2025 APChat. Hak cipta terpelihara.
+    </footer>
+  </main>
+</body>
+</html>
